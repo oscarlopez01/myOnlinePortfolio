@@ -77,7 +77,10 @@ First, the schema was updated using a SQL file, which is often used to create ba
  
 Now, let’s discuss the php application. First, develop a class that connects to a database, second create a CRUD class that extends the database connector. Third created a class for authentication purpose, fourth created a class that returns the primary user which is the user currently logged in. From there on I create a class that extends the CRUD using specific parts of the CRUD to service the web interface.
  
-	 
+![](webi.png)
+
+![](wweb3.png)
+
 As soon as the person logins their contacts will load, a search allows to search for contacts and add that person to the contact list. To send a message, first you need to click on a contact select button and from there the system loads the user to send a message to. The user now can enter a message and click send to submit the message.
  
 
