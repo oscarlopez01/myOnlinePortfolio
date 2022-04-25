@@ -84,10 +84,10 @@ Now, let’s discuss the php application. First, develop a class that connects t
 As soon as the person logins their contacts will load, a search allows to search for contacts and add that person to the contact list. To send a message, first you need to click on a contact select button and from there the system loads the user to send a message to. The user now can enter a message and click send to submit the message.
  
 
+![](loginPageMessage.PNG)
  
- 
+![](MessageBoard.PNG)
 
-
-
-Once done, the user can now click the logout butto
+![](MessageBoard2.PNG)
+Once done, the user can now click the logout button
 
