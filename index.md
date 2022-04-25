@@ -37,12 +37,14 @@ Once the CRUD Class was finalized, the class was used to build a tool that would
 The class is simple but adds a great functionality, by allowing each location to manage their own list of users.
 
 
-<video src="https://oscarlopez01.github.io/myOnlinePortfolio/artifacti.png" controls="controls" muted="muted" ></video>
-
+![](https://oscarlopez01.github.io/myOnlinePortfolio/artifacti.png)
 
 ## Artifact II
 Code Review
-![](CapstoneProject_final-1.mp4)
+![]()
+  <video src="CapstoneProject_final-1.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height:800px;">
+
+  </video>
 
 In the course 330 Client Server, the second final project was to deploy a web interface to the back-end mongo database. The interface was develop using Dash from plotly. Dash is a framework that helps deploy fast web applications using very little code. The framework allows for fast deployment and easy to navigate. Further, it has many built in libraries that makes prototyping an excellent tool. Combine with Jupyter Notebook, makes conceptual applications into real testable interfaces.
 
