@@ -61,4 +61,26 @@ In this improvement we are going to take the backend and use the Django framewor
 ##### Download project here
 https://oscarlopez01.github.io/myOnlinePortfolio/cs340_improve.zip
 
+## Artifact III
+Code Review
+![]()
+  <video src="CapstoneProject_final-2.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height:800px;">
+
+  </video>
+The Course DAD220 was fundamental in teaching relational database system using SQL, in this case it was MySQL one of the most used SQL server on the internet.  The final project was to answer a series of question that would reflect the handling of an SQL server and knowing the commands to administer that server. In this case the course presented us with a Database that allowed for users to message with contacts met. The course gave us the basic structure, it was up to each one to extend the structure by adding fields and functionality that each one thought necessary. The course was instrumental in teaching us how to create a database, create users, give users the ability different access, create tables, insert record, modified records, delete record, and lookup records, all this is better known as CRUD. Next, one major aspect was learning how to execute queries, queries that calculate different aspect of the datasets, queries that return group data, sorted data, and limits of sets.
+The graphic shows the database schema for the final project and how the schema was updated. In addition, there are several steps that will be performed to get the data ready for the new schema and ready to deploy. 
+First, the schema was updated using a SQL file, which is often used to create backups of the database. At the same time it is used to add records to the main tables, and move data between databases. Second, create an empty database. Third, run the SQL file to create the tables and lastly import the main dataset into the person table. Once the data is up and running, a php script was created to encode the current password using a php function called password_hash which will update the passwrodh field with the encoded password. One this step is performed the application is ready for deployment.
+ 
+Now, let’s discuss the php application. First, develop a class that connects to a database, second create a CRUD class that extends the database connector. Third created a class for authentication purpose, fourth created a class that returns the primary user which is the user currently logged in. From there on I create a class that extends the CRUD using specific parts of the CRUD to service the web interface.
+ 
+	 
+As soon as the person logins their contacts will load, a search allows to search for contacts and add that person to the contact list. To send a message, first you need to click on a contact select button and from there the system loads the user to send a message to. The user now can enter a message and click send to submit the message.
+ 
+
+ 
+ 
+
+
+
+Once done, the user can now click the logout butto
 
