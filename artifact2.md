@@ -1,6 +1,6 @@
 ## Artifact II
 Code Review
-![]()
+![](CapstoneProject_final-1.mp4)
 
 In the course 330 Client Server, the second final project was to deploy a web interface to the back-end mongo database. The interface was develop using Dash from plotly. Dash is a framework that helps deploy fast web applications using very little code. The framework allows for fast deployment and easy to navigate. Further, it has many built in libraries that makes prototyping an excellent tool. Combine with Jupyter Notebook, makes conceptual applications into real testable interfaces.
 
@@ -8,4 +8,4 @@ In this improvement we are going to take the backend and use the Django framewor
 
 
 ##### Download project here
-https://oscarlopez01.github.io/myOnlinePortfolio/
+https://oscarlopez01.github.io/myOnlinePortfolio/cs340_improve.zip
