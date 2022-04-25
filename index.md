@@ -79,7 +79,7 @@ Now, let’s discuss the php application. First, develop a class that connects t
  
 ![](webi.png)
 
-![](wweb3.png)
+![](web3.png)
 
 As soon as the person logins their contacts will load, a search allows to search for contacts and add that person to the contact list. To send a message, first you need to click on a contact select button and from there the system loads the user to send a message to. The user now can enter a message and click send to submit the message.
  
