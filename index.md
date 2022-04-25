@@ -73,7 +73,7 @@ The Course DAD220 was fundamental in teaching relational database system using S
 The graphic shows the database schema for the final project and how the schema was updated. In addition, there are several steps that will be performed to get the data ready for the new schema and ready to deploy. 
 
 First, the schema was updated using a SQL file, which is often used to create backups of the database. At the same time it is used to add records to the main tables, and move data between databases. Second, create an empty database. Third, run the SQL file to create the tables and lastly import the main dataset into the person table. Once the data is up and running, a php script was created to encode the current password using a php function called password_hash which will update the passwrodh field with the encoded password. One this step is performed the application is ready for deployment.
-![]('webi.png') 
+![](webi.png) 
  
 Now, let’s discuss the php application. First, develop a class that connects to a database, second create a CRUD class that extends the database connector. Third created a class for authentication purpose, fourth created a class that returns the primary user which is the user currently logged in. From there on I create a class that extends the CRUD using specific parts of the CRUD to service the web interface.
  
