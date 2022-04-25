@@ -37,7 +37,7 @@ Once the CRUD Class was finalized, the class was used to build a tool that would
 The class is simple but adds a great functionality, by allowing each location to manage their own list of users.
 
 
-![](https://oscarlopez01.github.io/myOnlinePortfolio/artifacti.png)
+<video src="https://oscarlopez01.github.io/myOnlinePortfolio/artifacti.png" controls="controls" muted="muted" ></video>
 
 
 ## Artifact II
