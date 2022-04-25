@@ -89,5 +89,5 @@ As soon as the person logins their contacts will load, a search allows to search
 ![](MessageBoard.PNG)
 
 ![](MessageBoard2.PNG)
-Once done, the user can now click the logout button
+Once done, the user can now click the logout button.
 
