@@ -32,4 +32,8 @@ In the course 330 Client Server, there were two final projects in the first Fina
        “phone”:”786-331-7897”
 }
 ```
+Once the CRUD Class was finalized, the class was used to build a tool that would allow rescue animal trainers to connect to a national database of animal from shelters all over the USA so that they can locate animals that can be trained for the purpose of performing search and rescue operations. The rescue operations could be in any terrain and location. To enhance this artifact, I have created a class that admin users can create new users for their location. The admin users will be able to create users and modify the status of their users to inactive or delete users.
+The class is simple but adds a great functionality, by allowing each location to manage their own list of users.
+
+
 ![](https://oscarlopez01.github.io/myOnlinePortfolio/artifacti.png)
